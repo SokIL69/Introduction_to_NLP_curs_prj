@@ -40,4 +40,5 @@ __Алгоритм работы чат-бота:__
 
 - course_prj_bot.ipynb - обучение чат-бота
 - course_prj_train.ipynb - реализация чат-бота
+- t.me/gb_new_nlp_bot - сам чат-бот
 
